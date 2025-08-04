@@ -105,7 +105,7 @@ https://your-ubuntu-vm-ip
 
 ## 6. Validation & Next Steps
 
-- **Log in to Wazuh:** `https://192.168.1.50:5601` (default credentials: `admin` / `<provided during install>`)
+- **Log in to Wazuh:** `https://192.168.1.50` (default credentials: `admin` / `<provided during install>`)
 - **Explore Dashboards:** Out-of-the-box Wazuh dashboards for agent status, security events, FIM alerts.
 - **Extend monitoring:**
   - Linux agent on other VMs
