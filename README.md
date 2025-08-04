@@ -77,8 +77,9 @@ https://your-ubuntu-vm-ip
 ![Setting up](setting-up.png)
 
 4. **Save and Restart agent service on windows host**
-. 
+ 
 ![Restart](restart 1.jpg)
+
 ## 5. Test File-Integrity Monitoring
 
 1. **On Windows host**, open agent config: `C:\Program Files (x86)\ossec-agent\ossec.conf`
