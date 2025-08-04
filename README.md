@@ -74,11 +74,11 @@ https://your-ubuntu-vm-ip
    # Follow prompts to add and extract the agent authentication key
    ```
    
-!(setting-up.png)
+![Setting up](setting-up.png)
 
 4. **Save and Restart agent service on windows host**
 . 
-![[restart 1.jpg]]
+![Restart](restart 1.jpg)
 ## 5. Test File-Integrity Monitoring
 
 1. **On Windows host**, open agent config: `C:\Program Files (x86)\ossec-agent\ossec.conf`
@@ -98,7 +98,7 @@ https://your-ubuntu-vm-ip
 4. **Verify alert**
 
    - In Wazuh, navigate to **File Integrity Monitoring --> Events**
-  ![[logs.png]]
+  ![Logs](logs.png)
 
 ---
 
