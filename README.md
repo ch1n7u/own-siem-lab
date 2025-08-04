@@ -51,13 +51,13 @@
    curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -i
    ```
 
-   - `-a` installs all components (manager, indexer, Kibana plugin)
+   - `-a` installs all components (manager, indexer)
    - `-i` enables interactive mode
 
 ## 3. Access your Wazuh Dashboard:
 
 ```bash
-	https://your-ubuntu-vm-ip
+https://your-ubuntu-vm-ip
 ```
 
 ## 4. Configure Windows Agent
@@ -65,7 +65,7 @@
 1. **Download & install** Follow the official guide: [https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html)
 
 2. **Point agent to manager**  `Enter your Windows Host's IP` 
-![wazuh-agent.png]
+![Wazuh Agent Screenshot](wazuh-agent.png)
 
 3. **Register agent on Manager(Ubuntu Server)**
 
