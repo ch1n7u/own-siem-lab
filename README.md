@@ -65,7 +65,7 @@
 1. **Download & install** Follow the official guide: [https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html)
 
 2. **Point agent to manager**  `Enter your Windows Host's IP` 
-![[wazuh-agent.png]]
+![wazuh-agent.png]
 
 3. **Register agent on Manager(Ubuntu Server)**
 
