@@ -1,3 +1,5 @@
+This Lab is a fully self‑hosted, on‑premise SIEM lab built using Open‑Source Wazuh on Ubuntu Server 22.04 with Wazuh Manager, Indexer (OpenSearch), Dashboard, and a Windows 11 agent configured for real‑time file integrity monitoring, log ingestion, and threat correlation. This home‑lab environment helps anyone-from cybersecurity beginners to SOC analysts-explore how networked endpoints generate alerts, how logs flow through a SIEM stack, and how detection and investigation happen in practice; it’s modular enough to add tools like Suricata or deploy Linux agents next. This repo includes all setup steps, configuration files, and example data flows so you can replicate the full lab within an hour. No public cloud or paid licenses needed.
+
 ## Lab Environment
 
 | VM              | CPU | RAM  | Network         | OS                  |
