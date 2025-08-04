@@ -78,7 +78,7 @@ https://your-ubuntu-vm-ip
 
 4. **Save and Restart agent service on windows host**
  
-![Restart](restart 1.jpg)
+![Restart](restart%201.jpg)
 
 ## 5. Test File-Integrity Monitoring
 
