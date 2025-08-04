@@ -74,7 +74,7 @@ https://your-ubuntu-vm-ip
    # Follow prompts to add and extract the agent authentication key
    ```
    
-![[setting-up.png]]
+!(setting-up.png)
 
 4. **Save and Restart agent service on windows host**
 . 
